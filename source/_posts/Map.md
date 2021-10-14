@@ -5,10 +5,10 @@ tags:
 - 数据结构
 - 哈希表
 - GoLang
-categories: 数据结构
+categories: 学习
 ---
-
-
+-
+<!-- more -->
 
 ### map是什么？
 
